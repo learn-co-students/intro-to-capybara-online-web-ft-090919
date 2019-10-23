@@ -1,1 +1,5 @@
-# Write your code here!
+require 'sintra'
+
+require_relative './app'
+
+run Application
